@@ -115,3 +115,11 @@ Each JSON file contains:
 ## License
 
 This repository is part of a doctoral dissertation. All rights reserved.
+
+## Datasets
+
+This research uses three publicly available benchmark datasets:
+
+- **MNIST** — LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. *Proceedings of the IEEE, 86*(11), 2278–2324. https://doi.org/10.1109/5.726791
+- **CIFAR-10** — Krizhevsky, A. (2009). *Learning multiple layers of features from tiny images* [Technical report]. University of Toronto.
+- **Tiny ImageNet** — Le, Y., & Yang, X. (2015). *Tiny ImageNet visual recognition challenge*. Stanford University CS 231N Course Project.
